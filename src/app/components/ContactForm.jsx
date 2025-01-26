@@ -123,11 +123,11 @@ const ContactForm = () => {
                             </div>
                             <div className="morinfo mt-4 pb-2 bord-thin-bottom">
                                 <h6 className="mb-2 text-xl">Address</h6>
-                                <p className='text-sm'>Quezon City Metro Manila, Philippines</p>
+                                <p className='text-sm'>0266-10 Silverland Phase 3, Duale Limay Bataan</p>
                             </div>
                             <div className="morinfo mt-4 pb-2 bord-thin-bottom">
                                 <h6 className="mb-2 text-xl">Email</h6>
-                                <p className='text-sm'>kingbbarawid5@gmail.com</p>
+                                <p className='text-sm'>guillermolegaspi@rocketmail.com</p>
                             </div>
 
                             <div className="social-icon-circle mt-4 flex gap-2">
