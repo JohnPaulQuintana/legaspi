@@ -63,7 +63,7 @@ const Sidebar = () => {
                             <div className="item mb-50">
                                 <h6 className="sub-title mb-15 opacity-7">Social Media</h6>
                                 <ul className="rest social-text">
-                                    {[["Facebook", "#"], ["WhatsApp", "tel:+639289662856"], ["Skype", "#"], ["Email", "mailto:guillermolegaspi@rocketmail.com"]].map(
+                                    {[["Facebook", "#"], ["WhatsApp", "tel:+639077273286"], ["Skype", "#"], ["Email", "mailto:guillermolegaspi@rocketmail.com"]].map(
                                         (social, index) => (
                                             <li className="mb-10" key={index}>
                                                 <a href={social[1]} className="hover-this">
